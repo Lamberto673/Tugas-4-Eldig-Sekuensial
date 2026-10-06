@@ -1,0 +1,52 @@
+$date
+  Tue Oct 06 10:46:55 2026
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module mux2to1_tb $end
+$var reg 1 ! i0 $end
+$var reg 1 " i1 $end
+$var reg 1 # s $end
+$var reg 1 $ y $end
+$scope module uut $end
+$var reg 1 % i0 $end
+$var reg 1 & i1 $end
+$var reg 1 ' s $end
+$var reg 1 ( y $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+0!
+1"
+0#
+0$
+0%
+1&
+0'
+0(
+#1000000
+1#
+1$
+1'
+1(
+#2000000
+1!
+0"
+0#
+1%
+0&
+0'
+#3000000
+1#
+0$
+1'
+0(

@@ -1,0 +1,126 @@
+$date
+  Tue Oct 06 10:11:01 2026
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module comparator_2bit_tb $end
+$var reg 2 ! a[1:0] $end
+$var reg 2 " b[1:0] $end
+$var reg 1 # gt $end
+$var reg 1 $ lt $end
+$var reg 1 % eq $end
+$scope module uut $end
+$var reg 2 & a[1:0] $end
+$var reg 2 ' b[1:0] $end
+$var reg 1 ( gt $end
+$var reg 1 ) lt $end
+$var reg 1 * eq $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+b00 !
+b00 "
+0#
+0$
+1%
+b00 &
+b00 '
+0(
+0)
+1*
+#1000000
+b01 "
+1$
+0%
+b01 '
+1)
+0*
+#2000000
+b10 "
+b10 '
+#3000000
+b11 "
+b11 '
+#4000000
+b01 !
+b00 "
+1#
+0$
+b01 &
+b00 '
+1(
+0)
+#5000000
+b01 "
+0#
+1%
+b01 '
+0(
+1*
+#6000000
+b10 "
+1$
+0%
+b10 '
+1)
+0*
+#7000000
+b11 "
+b11 '
+#8000000
+b10 !
+b00 "
+1#
+0$
+b10 &
+b00 '
+1(
+0)
+#9000000
+b01 "
+b01 '
+#10000000
+b10 "
+0#
+1%
+b10 '
+0(
+1*
+#11000000
+b11 "
+1$
+0%
+b11 '
+1)
+0*
+#12000000
+b11 !
+b00 "
+1#
+0$
+b11 &
+b00 '
+1(
+0)
+#13000000
+b01 "
+b01 '
+#14000000
+b10 "
+b10 '
+#15000000
+b11 "
+0#
+1%
+b11 '
+0(
+1*
